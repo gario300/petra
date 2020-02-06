@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Petra",
+    "slug": "Petra",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "notification":{
+      "icon": "./assets/icon.png",
+      "color": "#000000"
+    },
+    "android": {
+      "package": "com.petra.petraseguridad",
+      "icon": "./assets/icon.png",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDGH5czuhnq_0wlYqtLUzfjk8TPStwNpvw"
+        }
+      }
+    }
+  }
+}

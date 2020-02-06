@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919932631794",
+    "firebase_url": "https://petras-a108b.firebaseio.com",
+    "project_id": "petras-a108b",
+    "storage_bucket": "petras-a108b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919932631794:android:b377e9031b2e372f44ae6b",
+        "android_client_info": {
+          "package_name": "com.petra.petraseguridad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919932631794-0smv887akp11p34elpb51dj1jki224cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGH5czuhnq_0wlYqtLUzfjk8TPStwNpvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919932631794-0smv887akp11p34elpb51dj1jki224cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

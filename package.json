@@ -10,7 +10,7 @@
   "dependencies": {
     "@adonisjs/websocket-client": "^1.0.9",
     "@react-native-community/async-storage": "^1.7.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "compressed-json": "^1.0.15",
     "expo": "^35.0.0",
     "expo-constants": "~7.0.0",
